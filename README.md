@@ -16,11 +16,16 @@ https://github.com/rlarkd05
 이 홈페이지는 개발자 김강의 포트폴리오 및 연락처를 소개합니다. 저는 한남대학교에서 프로그래밍을 공부하고 있으며, 백엔드 개발자를 희망합니다.
 
 ## 기술 스택
+<div>   
+   - C![free-icon-c-6132222](https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/eee0a899-0411-41d4-a93e-479d9f9db62d)
 
-- C
-- Python
-- JavaScript
-- HTML / CSS
+   - Python![free-icon-python-5968350](https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/b401da0e-8a20-4299-ac1f-0e9e8a8d0014)
+
+   - JavaScript![free-icon-js-5968292](https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/0e5dd08f-280e-4795-bf00-2c78dd8cc0ad)
+
+   - HTML / CSS![free-icon-window-16198662](https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/9fea0442-147a-4adb-979f-57fd3aeee77e)
+
+</div>
 
 ## 프로젝트
 
