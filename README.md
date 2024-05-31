@@ -17,13 +17,15 @@ https://github.com/rlarkd05
 
 ## 기술 스택
 <div>   
-   - C<img src="free-icon-js-5968292.png" width="200" height="400"/>
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-   - Python<img src="free-icon-python-5968350.png" width="200" height="400"/>
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-   - JavaScript<img src="free-icon-js-5968292.png" width="200" height="400"/>
+   <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white">
 
-   - HTML / CSS<img src="free-icon-window-16198662.png" width="200" height="400"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 
 </div>
 
