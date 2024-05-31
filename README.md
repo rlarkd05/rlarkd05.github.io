@@ -13,3 +13,38 @@ https://github.com/rlarkd05
 마지막으로는 저의 연락처 이메일, 깃허브를 적었습니다. 이메일 누르면 바로 이메일 보낼 수 있게 만들었고 깃허브 프로필 누르면 바로 나의 깃허브로 들어 올 수 있게 만들었다.
 
 테마는 활용하지 않았고 제가 직접 제작하였습니다. 처음으로 제작하는거라 많이 어설프고 부족한점 양해 부탁드립니다.
+# Developer Kim Kang's Homepage
+
+![Developer Kim Kang's Homepage](homepage_screenshot.png)
+
+안녕하세요! 제 이름은 김강입니다. 이 리포지토리는 제 홈페이지를 담고 있습니다.
+
+## 소개
+
+이 홈페이지는 개발자 김강의 포트폴리오 및 연락처를 소개합니다. 저는 한남대학교에서 프로그래밍을 공부하고 있으며, 백엔드 개발자를 희망합니다.
+
+## 기술 스택
+
+- C
+- Python
+- JavaScript
+- HTML / CSS
+
+## 프로젝트
+
+1. **웹 포트폴리오 만들기**: 개인 프로젝트로, 제가 개발한 웹사이트들의 포트폴리오를 소개합니다.
+2. **블로그 개발**: 개발 과정에서 배운 내용이나 경험을 공유하는 블로그를 운영할 계획입니다.
+3. **온라인 스토어 제작**: 개발한 소프트웨어를 판매할 수 있는 온라인 스토어를 만들 계획입니다.
+
+## 직업
+
+희망 직업은 백엔드 개발자입니다.
+
+## 연락처
+
+- Email: [geunhye0104@naver.com](mailto:geunhye0104@naver.com)
+- GitHub: [github.com/rlarkd05](https://github.com/rlarkd05)
+
+---
+
+© 2024 Developer Kim Kang. All Rights Reserved.
