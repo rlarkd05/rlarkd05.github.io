@@ -24,7 +24,7 @@ https://github.com/rlarkd05
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
 
-## 프로젝트
+## 프로젝트(예정)
 
 1. **웹 사이트 만들기 (개인 프로젝트)**:
    개인적으로 만들고 있는 웹사이트로, 포트폴리오나 블로그 같은 내용을 포함할 예정입니다.
