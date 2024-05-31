@@ -2,11 +2,11 @@ https://github.com/rlarkd05
 # rlarkd05.github.io
 **20242388 김강**
 # Developer Kim Kang's Homepage
-
-# 홈페이지 스크린샷📸
-<div>   
-   <img width="1470" alt="스크린샷 2024-05-31 오후 10 46 33" src="https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/e2dc46b5-69e7-48a8-a271-2a849f5fd79e">
+<div>
+   # 홈페이지 스크린샷📸  
+      <img width="1470" alt="스크린샷 2024-05-31 오후 10 46 33" src="https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/e2dc46b5-69e7-48a8-a271-2a849f5fd79e">
 </div>
+
 
 
 
