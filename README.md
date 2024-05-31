@@ -4,7 +4,7 @@ https://github.com/rlarkd05
 
 # Developer Kim Kang's Homepage
 
-![Developer Kim Kang's Homepage](<img width="1470" alt="스크린샷 2024-05-31 오후 10 46 33" src="https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/7ac9ce5c-bf4e-4616-8854-9cbd462d8dc5">)
+![Developer Kim Kang's Homepage screenshot](<img width="1470" alt="스크린샷 2024-05-31 오후 10 46 33" src="https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/7ac9ce5c-bf4e-4616-8854-9cbd462d8dc5">)
 
 
 안녕하세요! 제 이름은 김강입니다. 이 리포지토리는 제 홈페이지를 담고 있습니다.
