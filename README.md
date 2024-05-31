@@ -21,7 +21,7 @@ https://github.com/rlarkd05
 
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-   <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white">
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 
