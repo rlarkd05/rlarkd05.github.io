@@ -4,7 +4,8 @@ https://github.com/rlarkd05
 # Developer Kim Kang's Homepage
 <div>
    홈페이지 스크린샷📸
-      https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/f604c88c-4be4-43a2-8a9c-4b4bfa1011d6
+   ![screenshot](https://github.com/rlarkd05/rlarkd05.github.io/assets/164356702/e93a93a0-cfc2-444c-a6bc-a984214871e8)
+
 </div>
 
 
